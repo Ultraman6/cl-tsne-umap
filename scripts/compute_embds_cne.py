@@ -1,6 +1,5 @@
 import numpy as np
 import os
-from vis_utils.loaders import load_dataset
 from utils import get_noise_in_estimator, get_path
 import pickle
 import cne
